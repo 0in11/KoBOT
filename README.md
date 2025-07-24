@@ -6,6 +6,12 @@ OpenWebUI 호환 법률/내규 RAG 챗봇 백엔드 API
 
 법률 문서와 내규 문서에 대한 질의응답을 제공하는 RAG(Retrieval-Augmented Generation) 시스템입니다. OpenAI API와 완전 호환되어 OpenWebUI 등 다양한 클라이언트에서 사용할 수 있습니다.
 
+## TEAM
+| 👤 Name | 🌐 GitHub |
+|:--------:|:--------:|
+| JIN Yeoungin (진영인) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/0in11) |
+| Jo WooSeok (조우석) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/jowoodol) |
+
 ## ✨ FUNCTION
 
 ### 🎯 **OpenAI API 호환**
