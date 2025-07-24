@@ -33,9 +33,13 @@ OpenWebUI 호환 법률/내규 RAG 챗봇 백엔드 API
 
 ## 🏗️ ARCHITECTURE
 
+<div align="center">
 <img width="1200" height="676" alt="Image" src="https://github.com/user-attachments/assets/433d634b-a0c3-4c6b-a6e1-1dee4ab1946c" />
+</div>
 
+<div align="center">
 <img width="821" height="618" alt="Image" src="https://github.com/user-attachments/assets/da6f1402-d9ca-43a1-9cd7-5147e8266025" />
+</div>
 
 ## 📁 PROJECT STRUCTURE
 
