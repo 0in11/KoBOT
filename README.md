@@ -81,7 +81,7 @@ Backend
     - Vector DB: ChromaDB
 
 Frontend
-    - Interface: Open WebUI(Svelte, JavaScripts)
+    - Interface: Open WebUI(Svelte, JavaScript)
     - Document Processing: Docling Server
 
 InfraStructure
