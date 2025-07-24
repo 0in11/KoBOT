@@ -45,7 +45,8 @@ OpenWebUI 호환 법률/내규 RAG 챗봇 백엔드 API
 </div>
 
 <div align="center">
-<img width="821" height="618" alt="Image" src="https://github.com/user-attachments/assets/da6f1402-d9ca-43a1-9cd7-5147e8266025" />
+    <img width="821" height="618" alt="Image" src="https://github.com/user-attachments/assets/da6f1402-d9ca-43a1-9cd7-5147e8266025" />
+    <p><i>LangGraph RAG FLOW</i></p>
 </div>
 
 ## 📁 PROJECT STRUCTURE
