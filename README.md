@@ -9,8 +9,8 @@ OpenWebUI 호환 법률/내규 RAG 챗봇 백엔드 API
 ## TEAM
 | 👤 Name | 🌐 GitHub |
 |:--------:|:--------:|
-| JIN Yeoungin (진영인) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/0in11) |
-| Jo WooSeok (조우석) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/jowoodol) |
+| JIN Youngin (진영인) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/0in11) |
+| JO WooSeok (조우석) | [![GitHub](https://img.shields.io/badge/GitHub-0in11-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/jowoodol) |
 
 ## ✨ FUNCTION
 
