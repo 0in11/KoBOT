@@ -40,7 +40,7 @@ OpenWebUI 호환 법률/내규 RAG 챗봇 백엔드 API
 ## 🏗️ ARCHITECTURE
 
 <div align="center">
-    <img width="1200" height="676" alt="Image" src="https://github.com/user-attachments/assets/433d634b-a0c3-4c6b-a6e1-1dee4ab1946c" />
+    <img width="1279" height="721" alt="Image" src="https://github.com/user-attachments/assets/db48ab05-6590-4b8a-b82c-5341abc84ff1" />
     <p><i>Containerized RAG System Infrastructure Overview</i></p>
 </div>
 
